@@ -1,2 +1,2 @@
 # Palcrypt
-Palcrypt - AES 256-bit Encryption for Windows
+An AES 256-bit encryption tool for Windows XP/Vista/7/8/10
